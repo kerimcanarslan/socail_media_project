@@ -32,9 +32,6 @@ cloudpickle==3.0.0
 colorama 
 colorlog==6.8.2
 comm==0.2.2
-conda 
-conda-package-handling 
-conda_package_streaming 
 cryptography 
 cycler
 Cython==3.0.10
