@@ -19,24 +19,24 @@ beautifulsoup4==4.12.3
 beniget==0.3.0
 bleach==6.1.0
 blinker==1.8.2
-boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1711936407380/work
-brotlipy @ file:///Users/runner/miniforge3/conda-bld/brotlipy_1695621728619/work
+boltons
+brotlipy
 cachetools==5.5.0
 catboost==1.2.5
 category-encoders==2.6.3
-certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1707022139797/work/certifi
-cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1625835350093/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+certifi 
+cffi
+charset-normalizer 
 click==8.1.7
 cloudpickle==3.0.0
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+colorama 
 colorlog==6.8.2
 comm==0.2.2
-conda @ file:///Users/runner/miniforge3/conda-bld/conda_1694556140197/work
-conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1669907009957/work
-conda_package_streaming @ file:///home/conda/feedstock_root/build_artifacts/conda-package-streaming_1669733752472/work
-cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1669593050536/work
-cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+conda 
+conda-package-handling 
+conda_package_streaming 
+cryptography 
+cycler
 Cython==3.0.10
 dash==2.18.1
 dash-core-components==2.0.0
@@ -69,7 +69,7 @@ h11==0.14.0
 httpcore==1.0.5
 httpx==0.27.0
 huggingface-hub==0.26.3
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+idna 
 imbalanced-learn==0.12.3
 importlib_metadata==7.1.0
 ipykernel==6.29.4
@@ -79,10 +79,10 @@ isoduration==20.11.0
 itsdangerous==2.2.0
 jedi==0.19.1
 Jinja2==3.1.3
-joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1663332044897/work
+joblib 
 json5==0.9.25
-jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1695536281965/work
-jsonpointer @ file:///Users/runner/miniforge3/conda-bld/jsonpointer_1695397322962/work
+jsonpatch 
+jsonpointer 
 jsonschema==4.21.1
 jsonschema-specifications==2023.12.1
 jupyter==1.0.0
@@ -98,19 +98,19 @@ jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.1
 jupyterlab_widgets==3.0.10
 kaleido==0.2.1
-kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1666805901953/work
+kiwisolver 
 lazypredict==0.2.12
 lazypredict-nightly==0.3.2
-lightgbm @ file:///Users/runner/miniforge3/conda-bld/lightgbm_1674563463038/work
+lightgbm 
 llvmlite==0.43.0
 Mako==1.3.3
 markdown-it-py==3.0.0
 MarkupSafe==2.1.4
-matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1636786717297/work
+matplotlib 
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.0.2
-mlxtend @ file:///home/conda/feedstock_root/build_artifacts/mlxtend_1663458188941/work
+mlxtend 
 mpmath==1.3.0
 multidict==6.1.0
 multiprocess==0.70.16
@@ -124,27 +124,27 @@ networkx==3.2.1
 notebook==7.1.3
 notebook_shim==0.2.4
 numba==0.60.0
-numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1675642800940/work
+numpy 
 openpyxl==3.1.5
 optuna==3.6.1
 orjson==3.10.7
 overrides==7.7.0
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1673482170163/work
+packaging 
 pandas==2.0.0
 pandocfilters==1.5.1
 parso==0.8.4
 patsy==0.5.6
 permetrics==2.0.0
 pexpect==4.9.0
-Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1675487305816/work
+Pillow 
 pipreqs==0.4.11
-platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1713912794367/work
+platformdirs 
 plotly==5.21.0
 plotly-resampler==0.10.0
-pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1667232663820/work
+pluggy 
 ply==3.11
 pmdarima==2.0.4
-pooch @ file:///home/conda/feedstock_root/build_artifacts/pooch_1708448481555/work
+pooch 
 prometheus_client==0.20.0
 prompt-toolkit==3.0.43
 propcache==0.2.0
@@ -155,18 +155,18 @@ pure-eval==0.2.2
 pyarrow==18.1.0
 pybind11==2.12.0
 pycaret==3.3.2
-pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1696355892939/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pycosat 
+pycparser 
 pydeck==0.9.1
 Pygments==2.17.2
 pyod==2.0.2
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1665350324128/work
-pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
-PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pyOpenSSL 
+pyparsing 
+PySocks 
+python-dateutil 
 python-json-logger==2.0.7
 pythran==0.9.11
-pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1673864280276/work
+pytz 
 PyYAML==6.0.1
 pyzmq==26.0.2
 qtconsole==5.5.1
@@ -179,8 +179,8 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rich==13.9.4
 rpds-py==0.18.0
-ruamel.yaml @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml_1698138728462/work
-ruamel.yaml.clib @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml.clib_1707314608714/work
+ruamel.yaml 
+ruamel.yaml.clib 
 safetensors==0.4.5
 schedule==1.2.2
 schemdraw==0.15
@@ -190,7 +190,7 @@ scikit-plot==0.3.7
 scipy==1.10.1
 seaborn==0.12.2
 Send2Trash==1.8.3
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+six 
 sktime==0.26.0
 smmap==5.0.1
 sniffio==1.3.1
@@ -204,14 +204,14 @@ sympy==1.13.1
 tbats==1.1.3
 tenacity==8.2.3
 terminado==0.18.1
-threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1643647933166/work
+threadpoolctl 
 tinycss2==1.3.0
 tokenizers==0.20.3
 toml==0.10.2
 tomli==2.0.1
-toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
+toolz 
 torch==2.5.1
-tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1708363391503/work
+tornado 
 TPOT==0.12.2
 tqdm==4.67.1
 traitlets==5.14.3
@@ -219,10 +219,10 @@ transformers==4.46.3
 tsdownsample==0.1.3
 types-python-dateutil==2.9.0.20240316
 typing_extensions==4.11.0
-tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
+tzdata 
 update-checker==0.18.0
 uri-template==1.3.0
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1669259737463/work
+urllib3 
 wcwidth==0.2.13
 webcolors==1.13
 webencodings==0.5.1
