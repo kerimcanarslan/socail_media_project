@@ -184,7 +184,7 @@ schemdraw==0.15
 scikit-base==0.7.8
 scikit-learn==1.4.2
 scikit-plot==0.3.7
-scipy==1.10.1
+scipy
 seaborn==0.12.2
 Send2Trash==1.8.3
 six 
