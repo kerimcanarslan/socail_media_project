@@ -5,6 +5,7 @@ import torch
 import base64  # Arka plan resmi için gerekli
 
 
+
 # Model Import
 model_load_path = "./bert_fine_tuned_model"
 
